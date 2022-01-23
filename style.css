@@ -10,6 +10,15 @@ body {
     background-color: cornflowerblue;
 }
 
+p {
+    color: white;
+    text-align: right;
+    justify-content: space-between;
+    font-size: 18px;
+    font-family: 'Arial Black';
+    
+}
+
 #main-play-area {
     background-color: black;
     background-image: url(img/space.png);
